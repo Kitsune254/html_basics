@@ -1,0 +1,39 @@
+.fruits{
+    border: 2px solid black;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    font-family: Chandas;
+}
+.cars{
+    border: black solid 5px;
+    text-align: center;
+    font-family: Chandas;
+    margin: 30px;
+}
+.FRUITS{
+    border: black solid 5px;
+    text-align: center;
+    font-family: Chandas;
+    margin: 30px;
+}
+.Fruits{
+    border: 2px solid black;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    font-family: Chandas;
+}
+#computers{
+     border: 2px solid black;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    font-family: Chandas;
+}#anime{
+    border: black 2px solid;
+    text-align: end;
+    font-family: Chandas;
+    padding: 10px;
+    margin: 20px;
+ }
